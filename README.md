@@ -6,7 +6,7 @@ AWS CDKを使用したイベント駆動型アーキテクチャの実装です�
 
 ## アーキテクチャ
 
-![アーキテクチャ図](./docs/architecture.drawio)
+![アーキテクチャ図](./docs/architecture.drawio.png)
 
 ### システムフロー
 
